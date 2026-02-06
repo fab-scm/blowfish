@@ -4405,8 +4405,8 @@ button, [role="button"] {
   width: 1em;
 }
 .logo svg {
-  height: 5rem;
-  width: 5rem;
+  height: 2.5rem;
+  width: 2.5rem;
 }
 #search-query::-webkit-search-cancel-button, #search-query::-webkit-search-decoration, #search-query::-webkit-search-results-button, #search-query::-webkit-search-results-decoration {
   display: none;
